@@ -1,0 +1,20 @@
+{
+  "name": "js-preps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.2.0",
+    "node-rtsp-stream": "^0.0.9",
+    "redis": "^4.6.13",
+    "socket.io": "^4.7.5"
+  }
+}
